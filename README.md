@@ -7,6 +7,10 @@ numpy
 Relevant Literature: 
 Hohl, A., Zheng, M., Tang, W., Delmelle, E., & Casas, I. (2017). Spatiotemporal Point Pattern Analysis Using Ripley’s K Function. In: Karimi, H. A. & Karimi, B. (Eds.) Geospatial Data Science: Techniques and Applications. Taylor & Francis.
 
+Alexander Hohl and Peilin Chen. 2019. Spatiotemporal Simulation: Local Ripley’s K Function Parameterizes Adaptive Kernel Density Estimation. In Proceedings of Geosim’19: 2nd ACM SIGSPATIAL International Workshop on Geospatial Simulation, Chicago, IL, USA, November 5, 2019 (GeoSim’19), 8 pages.
+https://doi.org/10.1145/3356470.3365528
+
+
 scripts:
 
 helperFunctions.py - contains utility functions, such as for computing STKDE
